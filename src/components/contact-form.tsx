@@ -4,7 +4,7 @@ import Button from "./button.tsx";
 const ContactForm = () => {
   return (
     <div className="col-span-1 lg:col-span-2">
-      <form className="w-full grid grid-cols-2 gap-x-10 gap-y-[50px]">
+      <form action="https://getform.io/f/f0e826b3-c91a-41f8-94c9-148df91c4bcd" method="POST" className="w-full grid grid-cols-2 gap-x-10 gap-y-[50px]">
         <label htmlFor="name">
           <input
             type="text"
