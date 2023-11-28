@@ -92,6 +92,8 @@ const Footer = () => {
 
         {/* End */}
       </div>
+        <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
+        <div className="elfsight-app-c9cf2462-f665-43b4-bc15-0636672ddb3e" data-elfsight-app-lazy></div>
     </footer>
   );
 };
